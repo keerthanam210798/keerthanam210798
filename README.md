@@ -17,4 +17,4 @@ Ex-Application Developer transitioning to Business Analytics 🚀
 | [Power BI](https://github.com/keerthanam210798/retail-sales-insight-analysis) | Power BI | Sales dashboard |
 
 ## 📫 Let's connect!
-[LinkedIn](https://linkedin.com/in/keerthana-mallegowda) | keerthana@email.com
+[LinkedIn]([https://linkedin.com/in/keerthana-mallegowda](https://www.linkedin.com/in/keerthana-mallegowda-a705971b6/)) | keerthanamallegowda@gmail.com

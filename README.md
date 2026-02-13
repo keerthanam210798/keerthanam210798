@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Keerthana! 👋
 
-<!--
-**keerthanam210798/keerthanam210798** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Data Analyst | Python • SQL • Power BI | Bengaluru**
 
-Here are some ideas to get you started:
+Ex-Application Developer transitioning to Business Analytics 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![PowerBI](https://img.shields.io/badge/PowerBI-FCA05E?style=for-the-badge&logo=powerbi&logoColor=white)
+
+## 🌟 Featured Projects
+| Project | Tech Stack | Insights |
+|---------|------------|----------|
+| [MS-EXCEL](https://github.com/keerthanam210798/retail-sales-insight-analysis) | Excel | Revenue optimization |
+| [SQL](https://github.com/keerthanam210798/retail-sales-insight-analysis) | SQL | Customer segmentation |
+| [Power BI](https://github.com/keerthanam210798/retail-sales-insight-analysis) | Power BI | Sales dashboard |
+
+## 📫 Let's connect!
+[LinkedIn](https://linkedin.com/in/keerthana-mallegowda) | keerthana@email.com
